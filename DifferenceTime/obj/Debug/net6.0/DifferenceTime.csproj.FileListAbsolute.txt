@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\DifferenceTime\DifferenceTime\obj\Debug\net6.0\DifferenceTime.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\DifferenceTime\DifferenceTime\obj\Debug\net6.0\DifferenceTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\DifferenceTime\DifferenceTime\obj\Debug\net6.0\DifferenceTime.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\DifferenceTime\DifferenceTime\obj\Debug\net6.0\DifferenceTime.AssemblyInfo.cs
+C:\Users\User\source\repos\DifferenceTime\DifferenceTime\obj\Debug\net6.0\DifferenceTime.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DifferenceTime\DifferenceTime\bin\Debug\net6.0\DifferenceTime.exe
+C:\Users\User\source\repos\DifferenceTime\DifferenceTime\bin\Debug\net6.0\DifferenceTime.deps.json
+C:\Users\User\source\repos\DifferenceTime\DifferenceTime\bin\Debug\net6.0\DifferenceTime.runtimeconfig.json
+C:\Users\User\source\repos\DifferenceTime\DifferenceTime\bin\Debug\net6.0\DifferenceTime.dll
+C:\Users\User\source\repos\DifferenceTime\DifferenceTime\bin\Debug\net6.0\DifferenceTime.pdb
+C:\Users\User\source\repos\DifferenceTime\DifferenceTime\obj\Debug\net6.0\DifferenceTime.dll
+C:\Users\User\source\repos\DifferenceTime\DifferenceTime\obj\Debug\net6.0\refint\DifferenceTime.dll
+C:\Users\User\source\repos\DifferenceTime\DifferenceTime\obj\Debug\net6.0\DifferenceTime.pdb
+C:\Users\User\source\repos\DifferenceTime\DifferenceTime\obj\Debug\net6.0\DifferenceTime.genruntimeconfig.cache
+C:\Users\User\source\repos\DifferenceTime\DifferenceTime\obj\Debug\net6.0\ref\DifferenceTime.dll
